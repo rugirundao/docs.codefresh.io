@@ -10,6 +10,6 @@ group :development, :test do
   gem 'jekyll-sitemap', '~> 1.2.0'
   gem 'jekyll-feed', '~> 0.11.0'
   gem 'jekyll-github-metadata', '~> 2.9.4'
-  gem 'bootstrap', '~> 4.1.3'
+  gem 'bootstrap', '~> 5.0.0'
   gem 'jemoji'
 end
